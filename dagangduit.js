@@ -97,7 +97,7 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
       if (text.toLowerCase().includes("nama")) {
         // Set the bot's name to "Shania"
         const botName = "Shania";
-        m.reply(`Nama saya sekarang adalah ${botName}`);
+        m.reply(`Nama saya ${botName} AI Representative.`);
         return; // Stop further execution
       }
       // If OpenAI API key is not configured, return and do nothing
