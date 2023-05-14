@@ -130,10 +130,11 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
     }
   } catch (err) {
     // If an error occurs, reply to the incoming message with the error message
-    m.reply("Maaf, sepertinya ada yang error :"+ util.format(err));
+    m.reply("Maaf, Server kami sedang sibuk. mohon tunggu beberapa saat lagi") ;
+            
   }
 };
-
+// util.format(err))
 server.listen(port, '0.0.0.0', () => {
   console.log(`Server running on port ${port}`);
 });
