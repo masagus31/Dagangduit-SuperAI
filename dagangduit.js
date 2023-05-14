@@ -94,6 +94,12 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
     }
     // If the message is not a command, use OpenAI to generate a response
     else {
+      if (text.toLowerCase().includes("nama")) {
+        // Set the bot's name to "Shania"
+        const botName = "Shania";
+        m.reply(`Nama saya sekarang adalah ${botName}`);
+        return; // Stop further execution
+      }
       // If OpenAI API key is not configured, return and do nothing
       if (setting.keyopenai === "ISI_APIKEY_OPENAI_DISINI") return;
       // Create OpenAI API client
