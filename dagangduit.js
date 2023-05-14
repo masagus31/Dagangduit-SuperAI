@@ -128,10 +128,18 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
       // Reply to the incoming message with OpenAI-generated response
       m.reply(`${response.data.choices[0].message.content}`);
     }
-  } catch (err) {
-    // If an error occurs, reply to the incoming message with the error message
-    m.reply(util.format(err));
-  }
+  } catch (error) {
+    if (error.response) {
+            console.log(error.response.status);
+            console.log(error.response.data);
+            console.log(`${error.response.status}\n\n${error.response.data}`);
+          } else {
+            console.log(error);
+            m.reply("Maaf, sepertinya ada yang error :"+ error.message);
+          }
+//     // If an error occurs, reply to the incoming message with the error message
+//     m.reply(util.format(err));
+//   }
 };
 
 server.listen(port, '0.0.0.0', () => {
