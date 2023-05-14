@@ -129,17 +129,9 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
       m.reply(`${response.data.choices[0].message.content}`);
     }
   } catch (err) {
-   if (err.response) {
-     console.log(err.response.status);
-     console.log(err.response.data);
-     console.log(`${err.response.status}\n\n${err.response.data}`);
-    } else {
-      console.log(err);
-      m.reply("Maaf, sepertinya ada yang error :"+ err.message);
-     }
-//     // If an error occurs, reply to the incoming message with the error message
-//     m.reply(util.format(err));
-//   }
+    // If an error occurs, reply to the incoming message with the error message
+    m.reply("Maaf, sepertinya ada yang error :"+ util.format(err));
+  }
 };
 
 server.listen(port, '0.0.0.0', () => {
