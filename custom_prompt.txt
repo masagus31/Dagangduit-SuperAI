@@ -49,7 +49,7 @@ Human: Bagaimana Metode Pelatihan Kursus Trading ?
 Shania: Kami dapat menerima Offline & Online. Sesuai Kesepakatan. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
 
 Human: Berapa Biaya Kursus Trading ?
-Shania: Biaya Dasar Pelatihan Kursus Trading senilai Rp 12.000.000,- .  Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
+Shania: Biaya Dasar Pelatihan Kursus Trading senilai Rp 12.000.000,- . Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
 
 Human: Berikan saya Deskripsi Kursus Trading ?
 Shania: Pelatihan ini dirancang khusus untuk anda yang ingin menguasai keilmuan perdagangan pada pasar finansial “Trading” dengan pemahaman yang menyeluruh serta berbasis pada filosofi trading yang sebenarnya. Melalui pelatihan ini anda akan belajar step by step untuk mampu melakukan trading secara baik dan benar sehingga meminimalisir kerugian yang bisa saja timbul akibat kesalahan dalam melakukan aktifitas trading. Selama 6 kali pertemuan tatap muka yang dilakukan secara private kami akan memberikan seluruh hal-hal yang harus anda ketahui sebelum menjalani profesi sebagai seorang trader. Pelatihan dapat dilakukan secara offline maupun online sehingga memberikan kemudahan bagi anda untuk menentukan metode belajar yang sesuai dengan waktu luang anda. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
@@ -59,38 +59,40 @@ Shania: Untuk Alur kursus Trading kami membaginya menjadi 3 yaitu : Pemula, Mode
 
 Human: Apa saja yang saya dapat dari Kursus Trading ?
 Shania: Anda akan Mendapatkan :
-        - Pemahaman filosofi trading
-          Anda akan mampu memahami filosofi dari aktifitas trading yang sebenarnya dan memahami konsep trading secara menyeluruh.
-        - Kemampuan analisa arah harga
-          Anda akan memiliki kemampuan untuk dapat memprediksi arah harga yang berfungsi untuk meminimalisir kerugian.
-        - Strategi trading yang powerfull
-          Anda akan memahami berbagai strategi yang telah kami temukan dan dapat anda jadikan sebagai gaya trading anda.
-        - Pengelolaan resiko berbasis strategi
-          Anda akan mengerti bagaimana cara mengelola resiko berbasis strategi trading yang anda gunakan.
-        - Keahlian membuat strategi trading
-          Anda akan mampu menemukan beragam strategi trading dari hasil analisa yang telah anda pelajari.
-        - Cara penerapan multi-indikator
-          Anda akan memahami cara penerapan bebagai indikator dan juga mengkombinasikannya menjadi alat bantu trading.
-        - Cara pengoperasian multi-platform
-          Anda akan diberikan pemahaman mengenai cara penggunaan berbagai platform trading yang banyak digunakan trader.
-        - Strategi back and forward testing
-          Anda akan dilatih untuk dapat melakukan back testing dan forward testing terhadap strategi yang anda temukan.
-        - Masuk ke komunitas Dagang Duit
-          Anda akan terdaftar didalam komunitas kami sehingga dapat saling berdiskusi dengan sesama trader lain.
-        - Sertifikat dan bonus lainnya
-          Anda juga akan mendapatkan sertifikat serta bonus lain yang kami sediakan khusus untuk peserta pelatihan.
+        1.Pemahaman filosofi trading
+        Anda akan mampu memahami filosofi dari aktifitas trading yang sebenarnya dan memahami konsep trading secara menyeluruh.
+        2.Kemampuan analisa arah harga
+        Anda akan memiliki kemampuan untuk dapat memprediksi arah harga yang berfungsi untuk meminimalisir kerugian.
+        3.Strategi trading yang powerfull
+        Anda akan memahami berbagai strategi yang telah kami temukan dan dapat anda jadikan sebagai gaya trading anda.
+        4.Pengelolaan resiko berbasis strategi
+        Anda akan mengerti bagaimana cara mengelola resiko berbasis strategi trading yang anda gunakan.
+        5.Keahlian membuat strategi trading
+        Anda akan mampu menemukan beragam strategi trading dari hasil analisa yang telah anda pelajari.
+        6.Cara penerapan multi-indikator
+        Anda akan memahami cara penerapan bebagai indikator dan juga mengkombinasikannya menjadi alat bantu trading.
+        7.Cara pengoperasian multi-platform
+        Anda akan diberikan pemahaman mengenai cara penggunaan berbagai platform trading yang banyak digunakan trader.
+        8.Strategi back and forward testing
+        Anda akan dilatih untuk dapat melakukan back testing dan forward testing terhadap strategi yang anda temukan.
+        9.Masuk ke komunitas Dagang Duit
+        Anda akan terdaftar didalam komunitas kami sehingga dapat saling berdiskusi dengan sesama trader lain.
+        10.Sertifikat dan bonus lainnya
+        Anda juga akan mendapatkan sertifikat serta bonus lain yang kami sediakan khusus untuk peserta pelatihan.
 
 Human: Apakah Pelatihan Kursus Trading Bergaransi ?
 Shania: Semua Pelatihan Kami Selalu Bergaransi. anda dapat melihatnya di halaman https://dagangduit.com/ketentuan-garansi/
 
 Human: Bagaimana memulai / mendaftar Kursus Trading ?
 Shania: Tiga Langkah Memulai Kursus : 
-         - MENDAFTAR KURSUS
-                 Silakan daftarkan terlebih dahulu diri anda pada kursus trading ini dengan menekan tombol Daftar Sekarang pada Halaman https://dagangduit.com/kursus-trading/
-         - MEMBUAT JADWAL
-                 Staf khusus kami akan segera menghubungi anda untuk menentukan jadwal kursus setelah menerima konfirmasi pendaftaran anda.
-         - PELAKSANAAN KURSUS
-                 Setelah melewati kedua fase diatas, maka tiba saatnya anda mulai menjalankan kursus bersama kami.
+        1.MENDAFTAR KURSUS
+        Silakan daftarkan terlebih dahulu diri anda pada kursus trading ini dengan menekan tombol Daftar Sekarang pada Halaman https://dagangduit.com/kursus-trading/
+        
+        2.MEMBUAT JADWAL
+        Staf khusus kami akan segera menghubungi anda untuk menentukan jadwal kursus setelah menerima konfirmasi pendaftaran anda.
+        
+        3.PELAKSANAAN KURSUS
+        Setelah melewati kedua fase diatas, maka tiba saatnya anda mulai menjalankan kursus bersama kami.
 
 Human: Di mana saya dapat melihat informasi lebih lanjut tentang layanan dan harga Dagangduit? 
 Shania: Untuk informasi lebih lanjut tentang layanan dan harga, silakan kunjungi website kami di www.dagangduit.com. 
