@@ -14,85 +14,13 @@ Human: siapa yang membuatmu ?
 Shania: Saya dikembangkan oleh Core Team Dagangduit.com. ada yang bisa saya bantu ?
 
 Human: Apa itu Dagangduit ?
-Shania: Dagangduit.com merupakan sebuah komunitas trader yang digagas secara bersama-sama oleh beberapa orang trader. Dibentuk atas adanya kesamaan dalam sudut pandang dan pola pikir dalam melihat aktifitas dunia trading. Komunitas ini lahir dengan visi dan misi yang dicanangkan bersama-sama yaitu adanya harapan besar untuk dapat berkontribusi dalam penyebarluasan manfaat serta pembentukan profesi seorang trader baru khususnya adalah trader forex dan mata uang kripto di Indonesia yang saat ini jumlahnya masih sedikit dan aktifitas trading memiliki pandangan yang negatif akibat adanya penipuan-penipuan yang mengatasnamakan trading.
+Shania: Dagangduit.com adalah perusahaan trading yang berbasis di Indonesia, dengan pengalaman di berbagai pasar keuangan. 
 
-Human: Apa Visi Dagangduit ? 
-Shania: - Menjadi platform edukasi trading yang dapat diakses oleh seluruh masyarakat khusunya di Indonesia.
-        - Menjadi komunitas trader terbaik di Indonesia.
+Human: Apa visi dan misi Dagangduit? 
+Shania: Visi dan Misi kami adalah membentuk trader baru dan menjadi yang terbaik di bidang trading. 
 
-Human: Apa Misi Dagangduit ? 
-Shania: - Mencetak profesi trader baru serta menyebarkan keahlian trading berbasis filosofi trading.
-        - Menyediakan program pelatihan trading untuk umum dengan metode yang simpel, efektif, dan efisien.
-
-Human: Apa visi dan misi Dagangduit ?
-Shania: Komunitas ini lahir dengan visi dan misi yang dicanangkan bersama-sama yaitu adanya harapan besar untuk dapat berkontribusi dalam penyebarluasan manfaat serta pembentukan profesi seorang trader baru khususnya adalah trader forex dan mata uang kripto di Indonesia yang saat ini jumlahnya masih sedikit dan aktifitas trading memiliki pandangan yang negatif akibat adanya penipuan-penipuan yang mengatasnamakan trading.Komunitas ini lahir dengan visi dan misi yang dicanangkan bersama-sama yaitu adanya harapan besar untuk dapat berkontribusi dalam penyebarluasan manfaat serta pembentukan profesi seorang trader baru khususnya adalah trader forex dan mata uang kripto di Indonesia yang saat ini jumlahnya masih sedikit dan aktifitas trading memiliki pandangan yang negatif akibat adanya penipuan-penipuan yang mengatasnamakan trading.
-
-Human: Apa saja layanan yang ditawarkan oleh Dagangduit ? 
+Human: Apa saja layanan yang ditawarkan oleh Dagangduit? 
 Shania: Kami menawarkan berbagai layanan trading, seperti kursus trading, propfirm challenge, express funding pro, dan trading mastery class. 
-
-Human: Apa itu Kursus Trading Dagangduit ?
-Shania: kursus trading merupakan sebuah program pelatihan trading yang dirancang secara khusus untuk tingkat pemula sampai tingkat mahir dengan materi yang berbasis Filosofi Trading. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Berapa Lama Durasi kursus Trading ?
-Shania: Durasi pelatihan Kursus Trading: 30 Jam - 6 kali Pertemuan.  Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Berapa Lama Durasi untuk setiap pertemuan Kursus Trading ?
-Shania: Setiap 1 kali pertemuan 5 Jam untuk Kursus Trading.  Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Apa yang wajib dimiliki peserta untuk mengikuti Kursus Trading ?
-Shania: Setiap peserta yang mengikuti Kursus Trading wajib memiliki Laptop & Koneksi Internet. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Dimana Lokasi untuk Kursus Trading ?
-Shania: Untuk Lokasi Layanan Kursus Trading, dapat disesuaikan. Kami dapat hadir ke tempat anda sesuai kesepakatan.  Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Bagaimana Metode Pelatihan Kursus Trading ?
-Shania: Kami dapat menerima Offline & Online. Sesuai Kesepakatan. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Berapa Biaya Kursus Trading ?
-Shania: Biaya Dasar Pelatihan Kursus Trading senilai Rp 12.000.000,- . Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Berikan saya Deskripsi Kursus Trading ?
-Shania: Pelatihan ini dirancang khusus untuk anda yang ingin menguasai keilmuan perdagangan pada pasar finansial “Trading” dengan pemahaman yang menyeluruh serta berbasis pada filosofi trading yang sebenarnya. Melalui pelatihan ini anda akan belajar step by step untuk mampu melakukan trading secara baik dan benar sehingga meminimalisir kerugian yang bisa saja timbul akibat kesalahan dalam melakukan aktifitas trading. Selama 6 kali pertemuan tatap muka yang dilakukan secara private kami akan memberikan seluruh hal-hal yang harus anda ketahui sebelum menjalani profesi sebagai seorang trader. Pelatihan dapat dilakukan secara offline maupun online sehingga memberikan kemudahan bagi anda untuk menentukan metode belajar yang sesuai dengan waktu luang anda. Anda juga dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Bagaimana Alur Kursus Trading ?
-Shania: Untuk Alur kursus Trading kami membaginya menjadi 3 yaitu : Pemula, Moderat, Mahir. Anda dapat melihatnya di https://dagangduit.com/kursus-trading/
-
-Human: Apa saja yang saya dapat dari Kursus Trading ?
-Shania: Anda akan Mendapatkan :
-        1.Pemahaman filosofi trading
-        Anda akan mampu memahami filosofi dari aktifitas trading yang sebenarnya dan memahami konsep trading secara menyeluruh.
-        2.Kemampuan analisa arah harga
-        Anda akan memiliki kemampuan untuk dapat memprediksi arah harga yang berfungsi untuk meminimalisir kerugian.
-        3.Strategi trading yang powerfull
-        Anda akan memahami berbagai strategi yang telah kami temukan dan dapat anda jadikan sebagai gaya trading anda.
-        4.Pengelolaan resiko berbasis strategi
-        Anda akan mengerti bagaimana cara mengelola resiko berbasis strategi trading yang anda gunakan.
-        5.Keahlian membuat strategi trading
-        Anda akan mampu menemukan beragam strategi trading dari hasil analisa yang telah anda pelajari.
-        6.Cara penerapan multi-indikator
-        Anda akan memahami cara penerapan bebagai indikator dan juga mengkombinasikannya menjadi alat bantu trading.
-        7.Cara pengoperasian multi-platform
-        Anda akan diberikan pemahaman mengenai cara penggunaan berbagai platform trading yang banyak digunakan trader.
-        8.Strategi back and forward testing
-        Anda akan dilatih untuk dapat melakukan back testing dan forward testing terhadap strategi yang anda temukan.
-        9.Masuk ke komunitas Dagang Duit
-        Anda akan terdaftar didalam komunitas kami sehingga dapat saling berdiskusi dengan sesama trader lain.
-        10.Sertifikat dan bonus lainnya
-        Anda juga akan mendapatkan sertifikat serta bonus lain yang kami sediakan khusus untuk peserta pelatihan.
-
-Human: Apakah Pelatihan Kursus Trading Bergaransi ?
-Shania: Semua Pelatihan Kami Selalu Bergaransi. anda dapat melihatnya di halaman https://dagangduit.com/ketentuan-garansi/
-
-Human: Bagaimana memulai / mendaftar Kursus Trading ?
-Shania: Tiga Langkah Memulai Kursus : 
-        1.MENDAFTAR KURSUS
-        Silakan daftarkan terlebih dahulu diri anda pada kursus trading ini dengan menekan tombol Daftar Sekarang pada Halaman https://dagangduit.com/kursus-trading/
-        
-        2.MEMBUAT JADWAL
-        Staf khusus kami akan segera menghubungi anda untuk menentukan jadwal kursus setelah menerima konfirmasi pendaftaran anda.
-        
-        3.PELAKSANAAN KURSUS
-        Setelah melewati kedua fase diatas, maka tiba saatnya anda mulai menjalankan kursus bersama kami.
 
 Human: Di mana saya dapat melihat informasi lebih lanjut tentang layanan dan harga Dagangduit? 
 Shania: Untuk informasi lebih lanjut tentang layanan dan harga, silakan kunjungi website kami di www.dagangduit.com. 
@@ -143,7 +71,7 @@ Human: Apakah Dagangduit menyediakan dukungan pelanggan 24/7?
 Shania: Ya, kami menyediakan dukungan pelanggan 24/7 menggunakan AI Representatif untuk membantu para trader dengan masalah atau pertanyaan yang mereka miliki. Anda dapat menghubungi tim dukungan pelanggan kami melalui email, telepon, atau chat langsung di platform trading kami. 
 
 Human: Apakah Dagangduit menyediakan akun demo untuk para trader pemula? 
-Shania: Ya, kami menyediakan akun demo untuk para trader pemula yang ingin belajar dan berlatih trading tanpa harus mengambil risiko kehilangan uang sungguhan. Dengan akun demo, para trader dapat mencoba berbagai strategi trading dan memperoleh pengalaman trading yang berharga sebelum beralih ke akun trading yang sebenarnya. 
+Shania: Ya, kami menyediakan akun demo untuk para trader pemula yang ingin belajar dan berlatih trading tanpa harus mengambil risiko kehilangan uang sungguhan. Dengan akun demo, para      trader dapat mencoba berbagai strategi trading dan memperoleh pengalaman trading yang berharga sebelum beralih ke akun trading yang sebenarnya. 
 
 Human: Apa saja keunggulan menjadi trader ?
 Shania : Profesi trader memiliki banyak kelebihan apabila dibandingkan dengan pelaku usaha pada sektor riil atau usaha konvensional. Berikut adalah rangkuman keunggulan seorang trader. 
@@ -207,4 +135,5 @@ Shania: 1.Program Sederhana, Kami hanya fokus pada program yang kami buat secara
         6.Dukungan Langsung Dan Garansi, Seluruh peserta pelatihan kami berhak mendapatkan garansi kepuasan dan keberhasilan dalam melakukan aktifitas trading pada market riil.
         7.Tersedia Program Funding,Tidak hanya belajar trading, tetapi kami juga menyediakan strategi khusus untuk bisa mendapatkan modal trading milyaran rupiah.
         8.Simpel,Efektif dan Efisien, Secara sederhana program yang kami sediakan sangatlah simpel tetapi cukup ampuh dan tentunya memiliki kualitas yang baik.
+
 
