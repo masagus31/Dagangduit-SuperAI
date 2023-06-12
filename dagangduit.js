@@ -24,6 +24,10 @@ const util = require("util");
 const chalk = require("chalk");
 const { Configuration, OpenAIApi } = require("openai");
 
+
+// Set maximum number of listeners to 20 for EventEmitter
+emitter.setMaxListeners(20); // Ubah 20 sesuai dengan jumlah maksimum pendengar yang Anda butuhkan
+
 // Load OpenAI API key configuration from file
 // let setting = require("./key.json");
 let setting = {
