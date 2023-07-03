@@ -23,7 +23,8 @@ const fs = require("fs");
 const util = require("util");
 const chalk = require("chalk");
 const { Configuration, OpenAIApi } = require("openai");
-
+const EventEmitter = require('events');
+const emitter = new EventEmitter();
 
 // Set maximum number of listeners to 20 for EventEmitter
 emitter.setMaxListeners(20); // Ubah 20 sesuai dengan jumlah maksimum pendengar yang Anda butuhkan
